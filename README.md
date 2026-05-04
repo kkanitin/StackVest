@@ -28,7 +28,7 @@ This repository uses **Git Submodules** to keep the frontend and backend concern
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Go](https://go.dev/) (1.21+)
+- [Go](https://go.dev/) (1.26.2+)
 - [Node.js](https://nodejs.org/) (20+)
 - [Git](https://git-scm.com/)
 
