@@ -38,3 +38,10 @@ This repository uses **Git Submodules** to keep the frontend and backend concern
    ```bash
    git clone --recursive [https://github.com/your-username/StackVest.git](https://github.com/your-username/StackVest.git)
    cd StackVest
+   ```
+
+---
+
+### 🔮 Future
+
+This is a learning-driven project, and honestly? I'm itching to add more. Additional features may sneak in whenever something sparks curiosity — nothing is off the table.
