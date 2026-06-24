@@ -44,4 +44,4 @@ This repository uses **Git Submodules** to keep the frontend and backend concern
 
 ### 🔮 Future
 
-This is a learning-driven project, and honestly? I'm itching to add more. Additional features may sneak in whenever something sparks curiosity — nothing is off the table.
+This is a learning-driven project, so fair warning: I get curious, and curiosity tends to become commits. New features may appear whenever something catches my eye — nothing's off the table.
