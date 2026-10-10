@@ -10,6 +10,19 @@ The goal is to provide a clean, visual representation of asset distribution (via
 
 ---
 
+## ✨ Features
+
+- **Overview dashboard:** total portfolio value, allocation, top holdings, recent activity, and a Fear & Greed Index gauge with the signals behind the score.
+- **Portfolios:** multiple named portfolios backed by a buy/sell transaction ledger, with derived positions, realised and unrealised P&L, and time-weighted returns.
+- **AI strategy analysis:** a streamed analysis of a portfolio with scored dimensions such as diversification, risk, and growth potential.
+- **Market heatmap:** heatmap tiles, a sparkline list, performance bars, and a multi-asset compare chart, with period and sector filters.
+- **DCA simulator:** backtest dollar-cost averaging on historical prices for one asset or your holdings, with ROI, yearly returns, and a lump-sum comparison.
+- **Watchlist:** track symbols with price, 24h change, 7-day trend, and per-symbol price alerts.
+- **Dividend calendar:** past and upcoming payouts for your holdings, month by month.
+- **Asset search:** global search with a company profile and price chart.
+
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend:** React + Vite (Fast, modern, and lightweight).
@@ -33,16 +46,20 @@ This repository uses **Git Submodules** to keep the frontend and backend concern
 
 ### Prerequisites
 - [Go](https://go.dev/) (1.27+)
-- [Node.js](https://nodejs.org/) (20+)
+- [Node.js](https://nodejs.org/) (22.12+)
 - [Git](https://git-scm.com/)
 
 ### Installation
 
 1. **Clone the repository with submodules:**
    ```bash
-   git clone --recursive [https://github.com/your-username/StackVest.git](https://github.com/your-username/StackVest.git)
+   git clone --recursive https://github.com/kkanitin/StackVest.git
    cd StackVest
    ```
+
+2. **Run each side** by following its own README, which holds all setup and run commands:
+   - [Backend](https://github.com/kkanitin/stack-vest-backend#getting-started) (start this first)
+   - [Frontend](https://github.com/kkanitin/stack-vest-frontend#getting-started)
 
 ---
 
