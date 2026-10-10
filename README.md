@@ -2,7 +2,7 @@
 
 **StackVest** is a personal, non-commercial investment tracking dashboard. It is a "learning-first" project designed to master a modern full-stack architecture using **Go** and **React**.
 
-The goal is to provide a clean, visual representation of asset distribution (via Heat Maps) and simulate future wealth growth through a DCA (Dollar Cost Averaging) simulator.
+The goal is to provide a clean, visual representation of asset distribution (via Heat Maps) and backtest investing plans on historical prices through a DCA (Dollar Cost Averaging) simulator.
 
 ---
 
