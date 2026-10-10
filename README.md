@@ -15,7 +15,7 @@ The goal is to provide a clean, visual representation of asset distribution (via
 - **Overview dashboard:** total portfolio value, allocation, top holdings, recent activity, and a Fear & Greed Index gauge with the signals behind the score.
 - **Portfolios:** multiple named portfolios backed by a buy/sell transaction ledger, with derived positions, realised and unrealised P&L, and time-weighted returns.
 - **AI strategy analysis:** a streamed analysis of a portfolio with scored dimensions such as diversification, risk, and growth potential.
-- **Market heatmap:** heatmap tiles, a sparkline list, performance bars, and a multi-asset compare chart, with period and sector filters.
+- **Market heatmap:** a market-cap treemap of the S&P 500, Nasdaq 100 or Dow 30, grouped by sector and coloured by 1D/1W/1M/YTD change, plus watchlist heatmap tiles, a sparkline list, performance bars, and a multi-asset compare chart.
 - **DCA simulator:** backtest dollar-cost averaging on historical prices for one asset or your holdings, with ROI, yearly returns, and a lump-sum comparison.
 - **Watchlist:** track symbols with price, 24h change, 7-day trend, and per-symbol price alerts.
 - **Dividend calendar:** past and upcoming payouts for your holdings, month by month.
