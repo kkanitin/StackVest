@@ -6,7 +6,7 @@ The goal is to provide a clean, visual representation of asset distribution (via
 
 **🔗 [Live demo](https://stackvest.app/)**
 
-![StackVest demo: overview dashboard, portfolio detail, AI strategy analysis, market heatmap, DCA simulation and watchlist](./stackvest-demo.gif)
+![StackVest demo: overview dashboard, portfolio detail, AI strategy analysis, market heatmap, DCA simulation and watchlist](./assets/stackvest-demo.gif)
 
 ---
 
