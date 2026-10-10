@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/kkanitin/StackVestBackend.git
+	url = https://github.com/kkanitin/stack-vest-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/kkanitin/StackVestFrontend.git
+	url = https://github.com/kkanitin/stack-vest-frontend.git

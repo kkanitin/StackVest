@@ -4,6 +4,10 @@
 
 The goal is to provide a clean, visual representation of asset distribution (via Heat Maps) and backtest investing plans on historical prices through a DCA (Dollar Cost Averaging) simulator.
 
+**🔗 [Live demo](https://stackvest.app/)**
+
+![StackVest demo: overview dashboard, portfolio detail, AI strategy analysis, market heatmap, DCA simulation and watchlist](./stackvest-demo.gif)
+
 ---
 
 ## 🛠 Tech Stack
@@ -20,15 +24,15 @@ The goal is to provide a clean, visual representation of asset distribution (via
 
 This repository uses **Git Submodules** to keep the frontend and backend concerns separated while maintaining a consolidated documentation hub.
 
-- `/frontend` → [StackVestFrontend](https://github.com/your-username/StackVestFrontend) (React + Vite)
-- `/backend`  → [StackVestBackend](https://github.com/your-username/StackVestBackend) (Go + Gin)
+- `/frontend` → [Stack-Vest-Frontend](https://github.com/kkanitin/stack-vest-frontend) (React + Vite)
+- `/backend`  → [Stack-Vest-Backend](https://github.com/kkanitin/stack-vest-backend) (Go + Gin)
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Go](https://go.dev/) (1.26.2+)
+- [Go](https://go.dev/) (1.27+)
 - [Node.js](https://nodejs.org/) (20+)
 - [Git](https://git-scm.com/)
 
